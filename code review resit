@@ -1,0 +1,28 @@
+What works well:
+The program counts words correctly
+Output is clear and easy to read
+uses a class and methods to organize the code better than the first repo
+
+Comments and Documentation
+There are few comments. Adding explanations for methods and the main idea would help others understand faster
+
+Error Handling
+The program doesn’t check if the file exists or if it can be opened
+It should add error handling to avoid crashing if the file is missing or unreadable
+
+Variable Naming
+Some variable names are okay but could be clearer about their purpose
+
+Code Structure
+Code is better organized with methods and a class
+The main method still does a lot of work; moving more into the class would improve clarity
+
+File Assumptions
+Assumes the file has content and doesn’t check for empty files or empty lines
+
+OOP Principles
+Uses a class which is somewhat good
+Could improve by putting more logic inside class methods
+
+Output Formatting
+Output is readable but could be better with sorted words or clearer spacing
